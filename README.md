@@ -8,12 +8,9 @@ Main Participant Name: **Ngugi Kariuki**
 
 Team Participant Names:
 
-James - ngugi-james
-	
-Joan Cheche - joanayienga
-	
-Rohan James Scott
+James - ngugi-james, Joan Cheche - joanayienga, Rohan James Scott
 
+-------------------------------------------
 AWS Code: 
  
 Ngugi Kariuki: PCI1IPUG1I80L
