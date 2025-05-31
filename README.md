@@ -13,10 +13,13 @@ James - ngugi-james, Joan Cheche - joanayienga, Rohan James Scott
 -------------------------------------------
 AWS Code: 
  
-Ngugi Kariuki: PCI1IPUG1I80L
+Ngugi Kariuki: XXXXXXXXXXX
 
-James : PCSSGQBCX3YY6P
+James : XXXXXXXXXXX
 
-Joan Cheche: PC1XM165SYKL2YM 
+Joan Cheche: XXXXXXXXXXX 
 
-Rohan James Scott: PC3MKTN69V0FBK 
+Rohan James Scott:  XXXXXXXXXXX
+
+For Credit details please Contact administrator on Slack
+https://app.slack.com/huddle/T01BN24U54L/C08SF5BUGN4
